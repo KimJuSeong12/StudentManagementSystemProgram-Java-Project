@@ -14,7 +14,7 @@ In this program, Data are stored and managed by using Database.
 | Language | 17.0.6_10 |
 | Editor | Eclipse IDE 2022-12 (4.26.0)) |
 | DBMS | MySQL Workbench 8.0.17 |
-| Github | [https://github.com/KimJuSeong12/Student_repo](https://github.com/KimJuSeong12/StudentManagementSystemProgram-Java-Project) |
+| Github | https://github.com/KimJuSeong12/StudentManagementSystemProgram-Java-Project |
 
 ## Periods of Development
 2023-02-27(Mon) ~ 2023-02-28(Tue)
