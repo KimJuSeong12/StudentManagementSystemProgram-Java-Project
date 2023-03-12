@@ -11,7 +11,7 @@ In this program, Data are stored and managed by using Database.
 | Category | Content |
 | --- | --- |
 | OS | Windows 10 Home |
-| Language | 17.0.6_10 |
+| Language | 17.0.6 |
 | Editor | Eclipse IDE 2022-12 (4.26.0)) |
 | DBMS | MySQL Workbench 8.0.17 |
 | Github | https://github.com/KimJuSeong12/StudentManagementSystemProgram-Java-Project |
